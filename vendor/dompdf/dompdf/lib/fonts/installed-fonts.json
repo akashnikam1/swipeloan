@@ -1,0 +1,18 @@
+{
+    "roboto": {
+        "300": "\/home\/launchpad.swipeloan.in\/public_html\/vendor\/dompdf\/dompdf\/lib\/fonts\/roboto_300_77760d72640722482dcf10d10e7c6441",
+        "normal": "\/home\/launchpad.swipeloan.in\/public_html\/vendor\/dompdf\/dompdf\/lib\/fonts\/roboto_normal_e794639d941c5ae548beb5b53f96d8e5",
+        "500": "\/home\/launchpad.swipeloan.in\/public_html\/vendor\/dompdf\/dompdf\/lib\/fonts\/roboto_500_671b879bee10092fcaff591b20272184",
+        "bold": "roboto_bold_9420b318fa9b620e67bbd96e8ff529e0"
+    },
+    "nunito": {
+        "normal": "\/home\/launchpad.swipeloan.in\/public_html\/vendor\/dompdf\/dompdf\/lib\/fonts\/nunito_normal_af24168a193f6ab6334d31623b105939",
+        "bold": "nunito_bold_8fad5d8ff6ae94a9593cd3d30cab512e"
+    },
+    "nioicon": {
+        "normal": "nioicon_normal_ca52e47cb69f4701c33c868bb63e11fe"
+    },
+    "material icons": {
+        "normal": "material_icons_normal_d4f0c36531731df40973b0163af73ef2"
+    }
+}
